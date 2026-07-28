@@ -10,5 +10,5 @@ A collection of experiments, notes, and code exploring high-performance computin
 
 ## Reference
 
-[No license specified. Add a LICENSE file if you want to set one.](https://www.starduster.me/2020/11/05/modern-microprocessors-a-90-minute-guide/)
-https://heptagonhust.github.io/HPC-roadmap/
+- [No license specified. Add a LICENSE file if you want to set one.](https://www.starduster.me/2020/11/05/modern-microprocessors-a-90-minute-guide/)
+- https://heptagonhust.github.io/HPC-roadmap/
