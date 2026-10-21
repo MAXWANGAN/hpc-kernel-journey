@@ -98,11 +98,29 @@
 96. notify somebody in advance 提前通知某人
 97. in excess of the maximum weight allowance of 60lbs 超过60磅的最大重量限额
 98. approval 批准（上对下）
-99. consent 同意
+99. consent 同意，动词
 100. adopt measures 采取措施
 101. assuredly 确定地
-102. cooperatively 合作地
-103. decisively 果断地
+102. cooperatively work 通力合作
+103. act decisively 果断行动
+104. consultant 顾问
+105. the consulting firm 咨询公司
+106. retail market 零售市场
+107. rank A as B 排名A为B级
+108. supply somebody with something 提供某人某物
+109. specific information 特定信息
+110. within a specified period 在指定的期限內
+111. at the appliances exposition 在家电博览会
+112. be sensitive to 对……敏感
+113. be used to 习惯于
+114. be attributed to 被归于
+115. less pay 较少的薪酬
+116. lesser known 较不知名的
+117. lessen the financial burden 减轻经济负担
+118. set the date 定下日子
+119. deal with 处理
+120. notify somebody of something 通知某人某事
+121. allow somebody to do something 允许某人干某事
 
 
 ## 语法知识：
@@ -118,3 +136,68 @@ what 不能像 that、which 那样去“修饰”一个已经存在的先行词�
 
 
 # Part6
+## 单词词组
+
+1. inform somebody that 通知某人
+2. manufacture cotton textiles 制造棉花织品
+3. details 细节
+4. detailed information 详细信息
+5. deal with fabrics in large quantities 大宗面料交易
+6. promising market 有潜力的市场
+7. moderately priced goods 价格合适的商品
+8. modest 谦虚的
+9. terms of payments and discounts 支付和折扣条款
+10. on purchases of quantities of not less than thousand of individual items 在不少于上千件单品的买卖中
+11. not less than 至少……
+12. regret to inform you 遗憾地通知你
+13. resign 退休
+14. state-of-the-art domestic appliances 先进家用电器
+15. oversee the development of the state-of-the-art domestic appliances 负责监督尖端家用电器的开发
+16. global market 全球市场
+17. during the period 在这段时期
+18. be pleased to receive your inquiry 很高兴收到您的咨询
+19. brochure 手册
+20. a price list 价格列表
+21. as well as 也
+22. given 考虑到
+23. happen to 碰巧
+24. have a change 有一个机会
+25. at an affordable rate 以一个可承受的比例
+26. Please bear in mind that 请注意
+27. beg someone to do something 恳求某人做某事，to可省略
+28. look forward to hearing back from you soon 期待尽快听到您的答复
+29. a good number of 大量的
+30. place an order 下单
+31. give competitive prices 有竞争力的价格
+32. quotation 报价
+33. furthermore 另外
+34. shipment 发货，运输，名词
+35. by the end of the month 在月底之前
+36. the principal market here 这里的主要市场
+37. low-end market 低端市场
+38. at popular prices 以亲民价格
+
+## 语法知识：
+### When replying
+
+題目解析
+
+* 文法核心：分词缩减子句（Reduced Clause）
+  * 原本的完整句子结构是：When you reply, please state...（当您回复时，请说明……）。  
+  * 由于后面主语都是 "you"（祈使句 please state 省略了主詞 you），在英文中可以把时间连接词（When）后面的主语省略，并将动词改成分词结构。  
+* 主动与被动判斷：  
+	* 因为回复动作是由**「您（you）」主动做出**的，动词必須使用 V-ing，因此选择 replying。  
+
+### as well as
+
+实用例句  
+
+• 连接名词（核心在 A）：  
+She speaks French as well as English.  
+她不仅会说英语，而且会说法语。（核心强调她会说法语）  
+• 连接动词（形式需对等）：  
+He cleans the house as well as cooks dinner.  
+他不仅做晚饭，还打扫房子。  
+• 主谓一致示例（动词随 A 变化）：  
+The teacher as well as the students is excited about the trip.  
+老师和学生们都对这次旅行感到兴奋。（动词用 is，因为要与单数主语 The teacher 保持一致）  
