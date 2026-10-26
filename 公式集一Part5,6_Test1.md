@@ -53,3 +53,4 @@
 12. champion 冠军
 13. so long as = as long as + 句子 只要
 14. professional athlete 职业运动员
+15. be open to someone 面向某人群开放
