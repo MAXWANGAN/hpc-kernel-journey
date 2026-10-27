@@ -1,3 +1,15 @@
+# 错题
+| 序号 | 题号 | 错选 | 正选 | 知识盲点 |
+| --- | --- | --- | --- | --- |
+| 1 | 104 | B | A | presentable 体面的、拿得长远的、适于亮相的 accounts receivable 应收账款 |
+| 2 | 110 | C | A | enable someone to do something 使某人能够做某事 acquire 获得、习得、收购 agree with someone 同意某人 |
+| 3 | 115 | C | D | next Friday 表示未来时 |
+| 4 | 120 | B | D | more than 多于 |
+| 5 | 124 | A | C | not one time 表示重复地 |
+| 6 | 131 | C | A | have problems with the customers 和顾客之间的问题 先行词是物 |
+| 7 | 135 | C | A | reach a tentative agreement 达成临时协议 |
+| 8 | 143 | C | A | in an unlikely event of loss or theft 在不太可能发生的遗失和被盗情况下 |
+
 # Part5
 ## 单词词组
 1. contract out (to...) 外包（给……）
@@ -66,7 +78,7 @@
 
 # Part6
 ## 单词词组
-1. in the unlikely event of loss or theft 在不太可能的遗失和被盗
+1. in an unlikely event of loss or theft 在不太可能发生的遗失和被盗情况下
 2. rigorous 严格的
 3. take the matter up with 与……一起处理问题
 4. cherished 宝贵的
