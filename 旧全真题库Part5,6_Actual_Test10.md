@@ -93,3 +93,8 @@
 15. set sail 出航，开始
 16. check out a schedule 查看日程
 17. with easy access to 可以轻松访问
+18. sail out 驶出港口；启航；扬帆出海
+19. cruise  邮轮旅行；游船旅行
+20. cruise ship visits 邮轮到访
+21. cruise terminals / cruise facility 邮轮码头 / 邮轮设施
+22. homeport at 以……为母港
