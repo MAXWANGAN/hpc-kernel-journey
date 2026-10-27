@@ -1,3 +1,11 @@
+# 错题
+| 序号 | 题号 | 错选 | 正选 | 知识盲点 |
+| --- | --- | --- | --- | --- |
+| 1 | 107 | B | D | a paid internship 带薪实习 |
+| 2 | 119 | D | A | opposite the bank 在银行对面 across from the park 在公园对面 next to the hotel 在酒店隔壁 near the station 在车站附近 |
+| 3 | 120 | C | D | originate 起源于，发源于 The river originates in the mountains. 创立，发起，首创 The idea originated with her. 产生，引起 The problem originated from a misunderstanding. |
+| 4 | 140 | A | C | where跟从句 |
+
 # Part5
 ## 单词词组
 1. quarter 季度
