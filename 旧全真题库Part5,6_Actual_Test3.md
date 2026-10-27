@@ -1,20 +1,20 @@
 # 错题
 | 序号 | 题号 | 错选 | 正选 | 知识盲点 |
 | --- | --- | --- | --- | --- |
-| 1 | 104 | D | C |  |
-| 2 | 105 | B | D |  |
-| 3 | 107 | C | A |  |
-| 4 | 108 | C | B |  |
-| 5 | 109 | A | D |  |
-| 6 | 110 | B | C |  |
-| 7 | 125 | C | A |  |
-| 8 | 128 | A | D |  |
-| 9 | 129 | B | D |  |
-| 10 | 136 | C | B |  |
-| 11 | 145 | B | A |  |
-| 12 | 148 | C | A |  |
-| 13 | 150 | D | B |  |
-| 14 | 151 | C | D |  |
+| 1 | 104 | D | C | submit proof of residence 提交居住证明 |
+| 2 | 105 | B | D | consider + 动名词 考虑某事，及物动词 |
+| 3 | 107 | C | A | even though + 句子 即使…… |
+| 4 | 108 | C | B | by the original deadline 在原始的最后期限前 |
+| 5 | 109 | A | D | still 仍然 |
+| 6 | 110 | B | C | presently underway 正在进行中的 |
+| 7 | 125 | C | A | have little room for cooperation 合作空间很少 tension between A and B A和B之间的紧张 |
+| 8 | 128 | A | D | on the grounds that 基于 |
+| 9 | 129 | B | D | indicative 指示性的 presumable 假设的，可预见的 exaggerated 夸张的 |
+| 10 | 136 | C | B | be of interest = interesting 有趣的 |
+| 11 | 145 | B | A | fairly 副词，相当 |
+| 12 | 148 | C | A | enclosed 随附的 |
+| 13 | 150 | D | B | courtesy 礼节 through the courtesy of the 承蒙……的好意 |
+| 14 | 151 | C | D | on account of 因为，由于 |
 
 # Part5
 ## 单词词组
