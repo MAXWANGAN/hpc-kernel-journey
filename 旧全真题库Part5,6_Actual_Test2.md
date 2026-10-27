@@ -1,3 +1,19 @@
+# 错题
+| 序号 | 题号 | 错选 | 正选 | 知识盲点 |
+| --- | --- | --- | --- | --- |
+| 1 | 104 | D | B | clearly 清楚地 respectively 分别，各自 respectfully 恭敬地 |
+| 2 | 107 | A | D | yet = but |
+| 3 | 108 | A | B | 跟名词所以是for be eligible for the positions 有资格申请岗位 be eligible to do something 有资格做某事 |
+| 4 | 109 | A | C | exhausted 耗尽的 exhausting 精疲力尽的 |
+| 5 | 117 | C | B | do correspondence 通信，信件 |
+| 6 | 121 | D | B | answer to 对……的答案 |
+| 7 | 123 | B | D | look into the data **closely** 深入研究数据 |
+| 8 | 126 | A | D | request that the audience (should) be quiet 要求观众应该保持安静，省略should |
+| 9 | 130 | D | C | 分词短语作伴随状语/结果状语，主动语态 |
+| 10 | 131 | B | A | commitment to 承诺，约定 assurance of 确信 |
+| 11 | 146 | B | A | suggestions 名词，建议 |
+| 12 | 148 | C | A | nor 放在前面，是倒装句，been 和 have 搭配，被动语态 |
+
 # Part5
 ## 单词词组
 1. remain to be seen 有待考虑
@@ -25,7 +41,7 @@
 23. be eligible for the positions 有资格申请岗位
 24. budget **for** office supplies 办公用品预算
 25. exhausting 精疲力尽的
-26. exhausted 耗尽的，**当人作主语或修饰人时,通常用-ed结尾的形容词**
+26. exhausted 耗尽的
 27. prosecute 起诉
 28. dump environmentally hazardous materials illegally 非法倾倒环境有害物质
 29. contaminate 污染
