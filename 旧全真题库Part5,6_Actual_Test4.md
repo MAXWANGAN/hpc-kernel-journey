@@ -1,3 +1,17 @@
+# 错题
+| 序号 | 题号 | 错选 | 正选 | 知识盲点 |
+| --- | --- | --- | --- | --- |
+| 1 | 102 | D | A | generate funds 产生资金 |
+| 2 | 105 | D | B | increasingly 越来越多地 consecutively 连续不断地 |
+| 3 | 107 | B | C | vicious circle 恶性循环 virtuous circle 良性循环 |
+| 4 | 111 | D | B | be largely evaluated by 被……主要评估 |
+| 5 | 117 | A | D | electrically 电力地（强电） electronically 电子地（弱电） |
+| 6 | 122 | D | A | clear (something) through customs 货物清关 |
+| 7 | 124 | A | B | currently under negotiation 正在谈判中 |
+| 8 | 128 | D | C | 虚拟语气，省略if，倒装句 |
+| 9 | 140 | A | D | into the next decade 进入下一个十年 |
+| 10 | 142 | B | A | should是省略了if的倒装结构 |
+
 # Part5
 ## 单词词组
 1. make a revision 校订
