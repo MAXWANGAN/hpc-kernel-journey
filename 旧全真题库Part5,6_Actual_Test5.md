@@ -1,3 +1,14 @@
+# 错题
+| 序号 | 题号 | 错选 | 正选 | 知识盲点 |
+| --- | --- | --- | --- | --- |
+| 1 | 104 | C | B | be faced with + 宾语 面临着 省略being |
+| 2 | 114 | B | A | even if 即使 |
+| 3 | 121 | A | D | 从句谓语，manufacture 制造 |
+| 4 | 139 | D | C | promptly 马上 |
+| 5 | 140 | B | A | simply/just indicate 只要做某事即可 |
+| 6 | 150 | D | B | lift a ban on 解除禁令 impose a ban / restriction (on) 对……实施禁令/限制 enforce regulations/rules 确保公司规章制度的落实 |
+| 7 | 151 | A | B | 关系代词做主语，先行词是物，因此用which，而不用who |
+
 # Part5
 ## 单词词组
 1. be faced with + 宾语 面临着
@@ -61,7 +72,6 @@
 3. contradict 违反，抵触
 4. at this time 现在
 5. quotation 报价
-6. 
 
 ## 语法知识
 ### even + 比较级
