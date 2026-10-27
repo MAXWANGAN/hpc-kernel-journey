@@ -1,19 +1,19 @@
 # 错题
 | 序号 | 题号 | 错选 | 正选 | 知识盲点 |
 | --- | --- | --- | --- | --- |
-| 1 | 104 | A | C |  |
-| 2 | 106 | C | B |  |
-| 3 | 107 | B | C |  |
-| 4 | 108 | B | D |  |
-| 5 | 112 | D | C |  |
-| 6 | 114 | C | A |  |
-| 7 | 121 | D | C |  |
-| 8 | 124 | B | A |  |
-| 9 | 129 | D | A |  |
-| 10 | 137 | C | A |  |
-| 11 | 139 | B | D |  |
-| 12 | 140 | D | C |  |
-| 13 | 151 | D | B |  |
+| 1 | 104 | A | C | 主语是floor manager，因此是单数 |
+| 2 | 106 | C | B | logistic service 后勤服务 |
+| 3 | 107 | B | C | suggest后面的从句省略了should |
+| 4 | 108 | B | D | us 我们，宾格 ours 我们的东西 |
+| 5 | 112 | D | C | 现在完成时，主动语态 |
+| 6 | 114 | C | A | significant 重大的 prevalent 盛行的 |
+| 7 | 121 | D | C | what 不能像 that、which 那样去“修饰”一个已经存在的先行词，它自己本身就相当于“先行词 + 关系词”的结合体‌。‌‌ |
+| 8 | 124 | B | A | concerning = regarding 关于 as of 截至……；从……起；以……为准 with respect to 关于 |
+| 9 | 129 | D | A | 现在完成时，被动语态 award sb sth 奖励某人某物 |
+| 10 | 137 | C | A | specific information 特定信息 |
+| 11 | 139 | B | D | less pay 较少的薪酬 lesser known 较不知名的 lessen the financial burden 减轻经济负担 |
+| 12 | 140 | D | C | set the date 定下日期 |
+| 13 | 151 | D | B | place orders 下单 |
 
 # Part5
 ## 单词词组
