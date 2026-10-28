@@ -84,5 +84,3 @@
 21. on file in our office 在我们办公室存档
 22. completed structure 竣工的建筑/结构
 23. officially inspected 官方检查 / 正式验收（常考于消防、安全或竣工验收场景）
-24. 
-
