@@ -13,18 +13,18 @@
 
 # Part2
 ## 12
-Can we try that Brazilian café tonight?
-(B) I went there last week.（我上周刚去过。）
+Can we try that Brazilian café tonight?  
+(B) I went there last week.（我上周刚去过。）  
 职场地道回应： 对方**委婉地表达**了不想去的意愿（因为近期刚去过）
 
 ## 23
-Where’d you find that lovely winter coat?
-(A) Thank you, it was a gift.（谢谢你，这是一份礼物。）
+Where’d you find that lovely winter coat?  
+(A) Thank you, it was a gift.（谢谢你，这是一份礼物。）  
 职场地道回应： 既然是别人送的礼物（a gift），自然就不是自己去特定地点买的。这完美地回答了 Where 的来源问题，同时也礼貌地回应了对方的赞美（lovely ➔ Thank you）
 
 ## 24
-Should we remind Ms. Woods to send us the budget report?
-(C) But the deadline isn’t for another week.（但是截止日期还有整整一周呢。）
+Should we remind Ms. Woods to send us the budget report?  
+(C) But the deadline isn’t for another week.（但是截止日期还有整整一周呢。）  
 职场地道回应： 说话者用 But（但是）进行转折，指出距离截止日期（deadline）还早，**潜台词**是“现在还不需要去催她”。
 
 * sales projections（销售预测）
