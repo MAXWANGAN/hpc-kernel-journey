@@ -9,13 +9,13 @@
 | 6 | 59 | A | C | 被paperwork误导了 Nice to do some sightseeing and take a break from work. |
 | 7 | 63 | B | A | 没注意听waste，reduced the amount of packaging waste 减少垃圾排放 |
 | 8 | 64 | D | B | 表示怀疑，这个不应该错，脑袋抽筋了。 To give a compliment 为了给予称赞 |
-| 9 | 67 | D | A |  |
-| 10 | 68 | B | A |  |
-| 11 | 71 | C | D |  |
-| 12 | 88 | B | D |  |
-| 13 | 92 | C | A |  |
-| 14 | 96 | C | A |  |
-| 15 | 97 | A | B |  |
+| 9 | 67 | D | A | 两次表达免除费用的意思，不应该错 And as an apology, my manager told me to waive your delivery charge. So, we'll cover the twenty dollar shipping fee. |
+| 10 | 68 | B | A | 漏听，纯蒙 market my landscaping business 推广园林景观业务 |
+| 11 | 71 | C | D | 漏听，一开头就说了是fitness center opened a new center **地名、公司名之类的总是扰乱我的关注点** |
+| 12 | 88 | B | D | 中间一大段长句没听懂，很多不熟悉的词汇，被干扰，导致没听到是 a feature film based on Ms. McCarthy's book will be released |
+| 13 | 92 | C | A | 不应该错，心急了 This meeting is to familiarize our human resource team with changes to the orientation program for new hires. |
+| 14 | 96 | C | A | 漏听，口音很重，明确说了 Bike Lanes |
+| 15 | 97 | A | B | 漏听 I'm now ready to 听成了 I'm not ready to ，完全理解错意思 |
 
 
 ## 25
