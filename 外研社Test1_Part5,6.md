@@ -124,7 +124,8 @@
 |【后面必须有名词的修饰词】|
 |another	|形容词 / 限定词	|单数，泛指（任何另外的一个）	|后面必须接单数可数名词。表示在一堆同类事物中“再来一个”或“换一个”。	|We need to purchase another computer.(我们需要再买一台电脑。) |
 |other	|纯形容词(绝不能单独使用)	|复数 / 不可数，泛指（其他的……）	|后面必须接复数名词或不可数名词。绝对不能光秃秃地放在句尾或介词后。	|Please check other files on the server.(请检查服务器上的其他文件。)|
-|the other	|形容词 / 限定词	|单数/复数，特指（剩下的那个/那些）	|后面接名词，强调在已知明确范围内，“剩下的其余全部”。	|The manager is in the other conference room.(经理在另一个会议室里。👉总共就两个)【后面光秃秃、单独作主语/宾语的纯代词】|
+|the other	|形容词 / 限定词	|单数/复数，特指（剩下的那个/那些）	|后面接名词，强调在已知明确范围内，“剩下的其余全部”。	|The manager is in the other conference room.(经理在另一个会议室里。👉总共就两个)|
+【后面光秃秃、单独作主语/宾语的纯代词】|
 |another	|纯代词	|单数，泛指（另一个）	|指代任何一个不特定的人或物。	|This printer is broken, so use another.(这台打印机坏了，所以用另一台吧。)|
 |others	|纯代词(后面绝不能加名词)	|复数，泛指（另外的一些人/物）	|群体划分（泛指）：常与 some 搭配，表示“一些人……，另一些人（别人）……”。	|Some clients agreed, while others objected.(一些客户同意，而另一些人反对。)|
 |the other	|纯代词	|单数，特指（两个中的最后一个）	|已知数量为两者。一个（one）怎么样，剩下的最后一个（the other）怎么样。	|I have two proposals. One is here, the other is lost.(我有两份提案。一份在这，另一份丢了。)|
