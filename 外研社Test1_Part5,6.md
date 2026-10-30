@@ -5,11 +5,11 @@
 | 2 | 12 | B | A | be expected to do 加动词原型，总是和look forward to doing 混淆 |
 | 3 | 14 | A | B | a direct manner of speaking 表示“直爽的、开门见山的说话风格” mutual benefit 互利 the room adjacent to the lobby 大堂相邻的房间 existing regulations 现行法规 |
 | 4 | 19 | C | B | transform A into B 把 A 转化为 B inspire sb. to do sth. 鼓舞某人做某事 |
-| 5 | 26 | B | A |  |
-| 6 | 31 | A | B |  |
-| 7 | 40 | A | D |  |
-| 8 | 41 | C | D |  |
-| 9 | 49 | C | A |  |
+| 5 | 26 | B | A | one another 彼此之间 |
+| 6 | 31 | A | B | 倒装句，原始语序为The opening of a new research and development center in Seoul was among the firm's notable achievements this past year.（在首尔开设新的研发中心，是该公司过去一年显著成就中的一个。） |
+| 7 | 40 | A | D | an already inflated market 一个本就已经虚高的市场 curb / combat inflation ➡️ 抑制/对抗通货膨胀 inflation hedges ➡️ 抗通胀的资产/对冲手段 |
+| 8 | 41 | C | D | 随信附上的是 4月到6月 的季度发票，写这封信已经是7月，因此是完成时。 |
+| 9 | 49 | C | A | be pleased with sth. 对……感到满意/高兴” pleasant通常用来修饰环境、天气、氛围或人的性格 pleasant weather（宜人的天气）、a pleasant experience（一次愉快的经历） |
 
 
 # 易错点
