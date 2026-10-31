@@ -111,6 +111,7 @@
 * be hesitant to do ➡️ 犹豫/迟疑做……
 * be proud to do ➡️ 很荣幸/骄傲做……（常用于公司获奖、宣布好消息时）
 * be pleased to do / be delighted to do ➡️ 很高兴做……（例：We are pleased to announce...）
+* be eager to do ➡️ 渴望做……
 
 
 ## other家族辨析
